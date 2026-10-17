@@ -70,6 +70,7 @@
 | [**Cake Wallet / Monero.com**](https://github.com/cake-tech) | iOS & Android wallets with built-in exchange and fiat on-ramps. |
 | [**MyMonero**](https://github.com/mymonero) | Web & desktop light-wallet; serverless mode available. |
 | [**Edge Wallet**](https://edge.app) | Multi-coin mobile wallet supporting XMR with client-side encryption. |
+| [**MonkStash**](https://monkstash.com) | Open-source, non-custodial Monero web wallet with payment links, invoices, and browser-based point of sale. |
 
 ### Developer Resources & SDKs
 | Resource | Description |
